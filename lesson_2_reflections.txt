@@ -1,0 +1,17 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area help in aggregating all changes before the commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Staging area allows you to aggregate files you want to commit before you commit.  This is a very useful feature!
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- when you have multiple version of the game
+- when you are trying something new
+- when you are not sure about impact of change on other parts of the code
+
+How do the diagrams help you visualize the branch structure?
+
+help us understand what branches are reachable and what branches are not while committing.
